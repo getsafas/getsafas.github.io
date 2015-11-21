@@ -37,7 +37,7 @@ body {
 
 .works-body{
   background-color: #141313;
-}
+}   
 
 .about-head {
   margin-top: 28%;
@@ -57,7 +57,9 @@ body {
 
 
 .home-btn {
-  margin-top: 30px;
+  margin-top: 25px;
+  margin-bottom: 20px;
+
 }
 
 .btn-theme{
