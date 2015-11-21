@@ -1,0 +1,92 @@
+body {
+    background-color: #F7F7F7;
+}
+
+
+
+.main-header{
+font-family: 'Passion One', cursive;
+font-size: 50px;
+color: #FD8F00;
+text-align: center;
+margin-top:35%;
+
+}
+
+
+.main-details{
+font-family: 'Homenaje', sans-serif;
+font-size: 20px;
+color: #B6AFAF;
+text-align: center;
+}
+
+.connect-buttons{
+margin-left: 90px;
+margin-top: 10px;
+padding-bottom: 10px;
+
+}
+
+
+.about-body{
+	background-color: #141313;
+}
+
+.works-body{
+  background-color: #141313;
+}
+
+.about-head {
+margin-top: 135px;
+color: #DAAFAF;
+font-size: 25px;
+text-align: center;
+font-family: 'Raleway', sans-serif;
+}
+
+.description {
+margin-top: 15px;
+color: #A7A7A7;
+font-size: 30px;
+text-align: center;
+font-family: 'Dawning of a New Day', cursive;
+}
+
+.about-btn{
+	margin-right: 73px;
+	margin-left: 220px;
+	padding-bottom: 10px;
+}
+
+.works-btn {
+	padding-bottom: 10px;
+}
+
+.home-btn {
+  margin-left: 175px;
+  margin-top: 30px;
+}
+
+.hvr-sink {
+  display: inline-block;
+  vertical-align: middle;
+  -webkit-transform: translateZ(0);
+  transform: translateZ(0);
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-transition-duration: 0.2s;
+  transition-duration: 0.2s;
+  -webkit-transition-property: transform;
+  transition-property: transform;
+  -webkit-transition-timing-function: ease-out;
+  transition-timing-function: ease-out;
+}
+.hvr-sink:hover, .hvr-sink:focus, .hvr-sink:active {
+  -webkit-transform: translateY(8px);
+  transform: translateY(8px);
+}
+
+
